@@ -10,3 +10,5 @@ Download the project on your localhost (make sure you have php running)
 4. Click on the button! And your watermaked images should be in the **destination** folder.
 
 ## Enjoy!
+
+### make sure you add a better logo :) a smaler one.
